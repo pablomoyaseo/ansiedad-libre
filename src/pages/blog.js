@@ -4,7 +4,7 @@ import Layout from '../components/Layout'
 import Seo from '../components/Seo'
 
 
-const BlogPage = () => {
+const BlogPage = ( {data}) => {
   return (
     <Layout pageTitle="My Blog Posts">
        <ul>
