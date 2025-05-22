@@ -1,6 +1,5 @@
 
 import React from "react"
-import { Link, useStaticQuery , graphql } from "gatsby"
 import Layout from "../components/Layout"
 import { StaticImage } from "gatsby-plugin-image"
 import Seo from "../components/Seo"
